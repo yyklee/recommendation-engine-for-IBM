@@ -1,12 +1,12 @@
 # recommendation-engine-for-IBM
 
-This project is part of the Udacity Data Science Nano Degree.
+In the IBM Watson Studio, there is a large collaborative community ecosystem of articles, datasets, notebooks, and other A.I. and ML. assets. This recommendation engine is built with the data to enhance user experience and make better suggestions. This project is part of the Udacity Data Science Nano Degree.
 
 ### Content
 
 I. Exploratory Data Analysis
 
-Before making recommendations of any kind, you will need to explore the data you are working with for the project. Dive in to see what you can find. There are some basic, required questions to be answered about the data you are working with throughout the rest of the notebook. Use this space to explore, before you dive into the details of your recommendation system in the later sections.
+Before making recommendations of any kind, I explored the dataset. 
 
 II. Rank Based Recommendations
 
